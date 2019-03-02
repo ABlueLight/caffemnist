@@ -1,0 +1,4 @@
+version: 3.4.0
+build tools:
+	cmake 3.6.2
+	gcc/g++ 4.8.3

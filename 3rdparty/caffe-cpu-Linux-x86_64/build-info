@@ -1,0 +1,5 @@
+version: 1.0.0-rc3
+build tools:
+	cmake 3.6.2
+	gcc/g++ 4.8.2
+	
